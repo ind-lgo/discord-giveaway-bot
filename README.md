@@ -1,22 +1,4 @@
-<div align="center">
-<h1 align="center">Simple discord giveaway bot</h1> 
 
-[![GitHub followers](https://img.shields.io/github/followers/orsou?style=social)](https://github.com/orsou) [![GitHub Repo stars](https://img.shields.io/github/stars/orsou/discord-giveaway-bot?style=social)](https://github.com/orsou/discord-giveaway-bot/stargazers) [![GitHub forks](https://img.shields.io/github/forks/orsou/discord-giveaway-bot?style=social)](https://github.com/orsou/discord-giveaway-bot/network/members)
-
-</div>
-
-Hi! This is a repository for a simple **discord giveaway bot**, this discord bot is made with [discord.js](https://discord.js.org/) and an npm package called discord-giveaways. If you would like to know how to install and setup this discord bot head to "[How to install?](#how-to-install)"
-
-## Preview of discord bot
-![Preview](https://i.imgur.com/2FYo4T1.png)This is what will show when the bot has been setup successfully.
-
-## Features
-* Create your own custom giveaways!
-* Custom time!
-* Custom prize!
-* Custom role mention!
-* Multiple winners!
-* Not manipulable!
 
 ## How to install?
 
@@ -70,37 +52,3 @@ And you are done! You have successfully made your discord bot run. If you are ha
 
 ![Example](https://user-images.githubusercontent.com/48368615/120048766-de352780-c00f-11eb-882e-b69e45e96c64.gif)
 > The token in this GIF is invalid. You have to use your own.
-
-## Contributing to the repository
-
-1. [Fork the repository!](https://github.com/orsou/discord-giveaway-bot/fork)
-2. Clone your fork: `git clone https://github.com/your-username/discord-giveaway-bot.git`
-3. Create your feature branch: `git checkout -b my-new-feature`
-4. Commit your changes: `git commit -am 'Add some feature'`
-5. Push to the branch: `git push origin my-new-feature`
-6. Submit a pull request! ₍ᐢ•ﻌ•ᐢ₎*･ﾟ｡
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://hardhat.cc"><img src="https://avatars.githubusercontent.com/u/64563726?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Orso</b></sub></a><br /><a href="https://github.com/orsou/discord-giveaway-bot/commits?author=orsou" title="Code">💻</a> <a href="https://github.com/orsou/discord-giveaway-bot/commits?author=orsou" title="Documentation">📖</a> <a href="#maintenance-orsou" title="Maintenance">🚧</a> <a href="#projectManagement-orsou" title="Project Management">📆</a></td>
-    <td align="center"><a href="https://prosserjac.xyz/"><img src="https://avatars.githubusercontent.com/u/48368615?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jac</b></sub></a><br /><a href="https://github.com/orsou/discord-giveaway-bot/commits?author=JacProsser" title="Code">💻</a> <a href="https://github.com/orsou/discord-giveaway-bot/commits?author=JacProsser" title="Documentation">📖</a> <a href="#ideas-JacProsser" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-JacProsser" title="Answering Questions">💬</a> <a href="https://github.com/orsou/discord-giveaway-bot/issues?q=author%3AJacProsser" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="https://oofchair.xyz"><img src="https://avatars.githubusercontent.com/u/66800643?v=4?s=100" width="100px;" alt=""/><br /><sub><b>OofChair</b></sub></a><br /><a href="https://github.com/orsou/discord-giveaway-bot/commits?author=OofChair" title="Documentation">📖</a><td align="center"><a href="https://github.com/Tanya575"><img src="https://avatars.githubusercontent.com/u/80748971?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tanya</b></sub></a><br /><a href="https://github.com/orsou/discord-giveaway-bot/commits?author=Tanya575" title="Code">💻</a><td align="center"><a href="https://github.com/LeVonara9"><img src="https://avatars.githubusercontent.com/u/80195671?v=4?s=100" width="100px;" alt=""/><br /><sub><b>LeVonara</b></sub></a><br /><a href="https://github.com/orsou/discord-giveaway-bot/commits?author=LeVonara9" title="Code">💻</a><td align="center"><a href="https://artivain.com"><img src="https://avatars.githubusercontent.com/u/42936037?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Thomas Fournier</b></sub></a><br /><a href="https://github.com/orsou/discord-giveaway-bot/commits?author=GoudronViande24" title="Documentation">📖</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
-## LICENSE
-MIT
