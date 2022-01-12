@@ -48,7 +48,7 @@
 - Linux:
   - Run `node index.js` command
 
-And you are done! You have successfully made your discord bot run. If you are having any troubles refer to the GIF below or open an [issue](https://github.com/orsou/discord-giveaway-bot/issues/new).
+
 
 ![Example](https://user-images.githubusercontent.com/48368615/120048766-de352780-c00f-11eb-882e-b69e45e96c64.gif)
 > The token in this GIF is invalid. You have to use your own.
