@@ -49,6 +49,3 @@
   - Run `node index.js` command
 
 
-
-![Example](https://user-images.githubusercontent.com/48368615/120048766-de352780-c00f-11eb-882e-b69e45e96c64.gif)
-> The token in this GIF is invalid. You have to use your own.
