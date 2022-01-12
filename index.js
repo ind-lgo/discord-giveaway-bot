@@ -2,6 +2,7 @@ const { Client, Collection } = require("discord.js");
 const config = require("./config.json");
 const client = new Client();
 const { GiveawaysManager } = require('discord-giveaways');
+const Database = require("@replit/database")
 
 client.giveawaysManager = new GiveawaysManager(client, {
     storage: "./giveaways.json",
